@@ -1,0 +1,8 @@
+#Grades
+mark = 36
+if mark>=30:
+    print ("Grade A")
+elif mark>20:
+    print("Grade B")
+else:
+    print("Fail")
